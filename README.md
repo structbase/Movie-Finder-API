@@ -33,13 +33,13 @@ This project runs locally as a backend API.
 ### 🔍 Search Movies
 
 ```
-GET http://localhost:3001/api/search?title=batman
+GET http://localhost:3000/api/search?title=batman
 ```
 
 ### 🎬 Get Movie Details
 
 ```
-GET http://localhost:3001/api/movies/tt0372784
+GET http://localhost:3000/api/movies/tt0372784
 ```
 
 ---
